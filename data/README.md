@@ -36,3 +36,15 @@ These datasets are based on publicly available transit and demographic data sour
 - Accessibility is treated as a static property
 - Network edges represent connectivity only and do not include travel time or service frequency
 - Income and population data are linked through geographic aggregation and may not align exactly with individual station locations
+
+
+## Licensing
+
+The datasets in this directory are derived from publicly available sources.
+
+- Transit data: Transport for London (TfL) open data (Open Government Licence)
+- Socioeconomic data: UK public datasets (Open Government Licence or similar)
+
+Users must comply with the original data licenses and provide appropriate attribution.
+
+Any derived datasets (e.g., accessibility network) reflect transformations applied in this repository but remain subject to the terms of the original data sources.
